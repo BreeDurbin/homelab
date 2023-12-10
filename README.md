@@ -1,2 +1,2 @@
 # homelab
-Self hosted apps and deployments
+A set of docker compose files for containers running on my home server.
